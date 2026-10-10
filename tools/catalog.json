@@ -1,0 +1,26 @@
+{
+ "generated": "2026-10-10T15:08:34Z",
+ "schema": "ekk.tool-catalog/1",
+ "tools": [
+  {
+   "category": "Edit",
+   "channel": "stable",
+   "description": "Công cụ THỬ NGHIỆM D-008 — chỉ dùng để kiểm tra hiển thị công cụ từ xa",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-d008-rehearsal/releases/download/rehearsal/ekk-d008-rehearsal-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "kind": "lua",
+   "name": "EKK D-008 Rehearsal (TEST)",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "2aa43bdddc457e9801bdba8c59b645c824a30448b3ed81c71e3262d5bc789b86",
+   "size": 785,
+   "thumbnail": {
+    "sha256": "b261c7070314fb0074ac26cf37f0d494c66fa1ff284cd7967cebbe98c92eaf0f",
+    "size": 1857,
+    "url": "https://github.com/EditKhongKho/ekk-unified-d008-rehearsal/releases/download/rehearsal/ekk-d008-rehearsal.png"
+   },
+   "tool_id": "ekk-d008-rehearsal",
+   "version": "1.0.0"
+  }
+ ]
+}
